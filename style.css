@@ -1,0 +1,42 @@
+body{
+    background-color: darkcyan;
+}
+
+.qw{
+    background-color: #311313;
+    color: #ffffff;
+    margin-top: 20px;
+    margin: 0 auto;
+    text-align: center;
+    height: 40px;
+    width: 400px;
+}
+
+.as{
+    background-color: black;
+    border: 10px solid red;
+    width: 600px;
+    height: 450px;
+    margin:  0 auto;
+    margin-top: 40px;
+}
+
+.zx{
+    background-color: #1FE8B7;
+    color: white;
+    height: 150px;
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.cv{background-color: #1FE8B7;
+    color: white;
+    height: 150px;
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
